@@ -11,7 +11,7 @@
         <br>
         <p>
             <strong>
-                Currently interning at Rocketlane, passionate about building applications and backend engineering
+                Passionate about backend application development, currently a final year computer science student and a backend intern in Rocetlane
             </strong>
         </p>
 </div>
