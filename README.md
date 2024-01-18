@@ -7,7 +7,7 @@
         <a href="https://leetcode.com/vignesh2010050/"><img src="https://img.shields.io/badge/Leetcode-B92B27?style=flat&logo=leetcode" alt="Leetcode" /></a>
         <a href="https://www.hackerrank.com/profile/vignesh2010050"><img src="https://img.shields.io/badge/Hackerrank-0088cc?style=flat&logo=hackerrank" alt="Hackerrank" /></a>
 </div>
-<div align=center>
+<div align=left>
         <br>
         <p>
             <strong>
