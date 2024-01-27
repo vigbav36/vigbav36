@@ -18,8 +18,10 @@
 
 ### **GitHub stats**
 
-| ![](https://github-readme-stats.vercel.app/api?username=vigbav36&show_icons=true_color=fff&theme=radical&hide_border=true&title_color=eb1f6a&custom_title=Contribution&nbsp;stats) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigbav36&layout=compact&bg_color=2c292d&text_color=f7d747&hide_border=true&title_color=eb1f6a)](https://github.com/anuraghazra/github-readme-stats) |
+| ![](https://github-readme-stats.vercel.app/api?username=vigbav36&show_icons=true_color=fff&theme=radical&hide_border=true&title_color=eb1f6a&custom_title=Contribution&nbsp;stats) |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigbav36&layout=donut&theme=dark) |
 | --- | --- |
+
+
 
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vigbav36&theme=monokai) |
 | --- |
