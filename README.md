@@ -4,7 +4,7 @@
 
 <div align=center>
         <a href="https://www.linkedin.com/in/smvignesh"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://leetcode.com/vignesh2010050/"><img src="https://img.shields.io/badge/Leetcode-B92B27?style=flat&logo=leetcode" alt="Leetcode" /></a>
+        <a href="https://leetcode.com/vigbav36/"><img src="https://img.shields.io/badge/Leetcode-B92B27?style=flat&logo=leetcode" alt="Leetcode" /></a>
         <a href="https://www.hackerrank.com/profile/vignesh2010050"><img src="https://img.shields.io/badge/Hackerrank-0088cc?style=flat&logo=hackerrank" alt="Hackerrank" /></a>
 </div>
 <div align=left>
