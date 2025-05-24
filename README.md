@@ -11,7 +11,7 @@
         <br>
         <p>
             <strong>
-                Passionate about backend application development, currently a final year computer science student and a backend intern in Rocketlane
+                Passionate about backend application development, currently a Software Engineer <a href="https://github.com/chargebee">@Chargebee</a>. You can find my github account at work <a href="https://github.com/cb-vigneshsm">here</a>
             </strong>
         </p>
 </div>
