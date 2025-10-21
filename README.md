@@ -25,3 +25,7 @@
 
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vigbav36&theme=monokai) |
 | --- |
+
+### **Holopin Badges for Open Source**
+
+[![An image of @vigbav36's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vigbav36)](https://holopin.io/@vigbav36)
